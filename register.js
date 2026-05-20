@@ -1,8 +1,8 @@
 const { REST, Routes, SlashCommandBuilder } = require('discord.js');
 
-const TOKEN = 'YOUR_DISCORD_BOT_TOKEN';
-const CLIENT_ID = 'YOUR_CLIENT_ID';
-const GUILD_ID = 'YOUR_SERVER_ID';
+const TOKEN = 'MTUwNjUxNzQ0NzI1NDIxNjc1NQ.G0FIka.2xnGF7rkeBtznVGEQTqLhdtCfUbEAjcVAAl_ks';
+const CLIENT_ID = '1506517447254216755';
+const GUILD_ID = '1506517223462932600';
 
 const commands = [
     new SlashCommandBuilder()
