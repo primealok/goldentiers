@@ -7,7 +7,7 @@ const GUILD_ID = 'YOUR_SERVER_ID';
 const commands = [
     new SlashCommandBuilder()
         .setName('addplayer')
-        .setDescription('Add player to MC tiers')
+        .setDescription('Add player to GOLDEN tiers')
         .addStringOption(option =>
             option.setName('name')
                 .setDescription('Player name')
